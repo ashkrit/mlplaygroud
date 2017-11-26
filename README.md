@@ -2,4 +2,4 @@
 mlplaygroud
 
 Samples for ML problems
-Blog: ashkrit.blogspot.com
+Blog: http://ashkrit.blogspot.com
